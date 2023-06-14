@@ -1,0 +1,11 @@
+ec\edu\espe\arquitectura\pedido\model\PedidoArticulo.class
+ec\edu\espe\arquitectura\pedido\controller\ClienteController.class
+ec\edu\espe\arquitectura\pedido\repository\DetallePedidoRepository.class
+ec\edu\espe\arquitectura\pedido\repository\ClienteDireccionRepository.class
+ec\edu\espe\arquitectura\pedido\service\ClienteService.class
+ec\edu\espe\arquitectura\pedido\model\ClienteDireccion.class
+ec\edu\espe\arquitectura\pedido\model\DetallePedido.class
+ec\edu\espe\arquitectura\pedido\repository\ClienteRepository.class
+ec\edu\espe\arquitectura\pedido\repository\PedidoArticuloRepository.class
+ec\edu\espe\arquitectura\pedido\model\Cliente.class
+ec\edu\espe\arquitectura\pedido\PedidoApplication.class
